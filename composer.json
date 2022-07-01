@@ -5,7 +5,7 @@
     "keywords": [
         "mqtt",
         "client",
-        "publish",
+        "publish"
     ],
     "license": "MIT",
     "authors": [
